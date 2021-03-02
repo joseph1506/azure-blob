@@ -62,10 +62,10 @@
         <version>1.9.1</version>  
         <configuration> 
           <schemaVersion>V2</schemaVersion>  
-          <resourceGroup>Regroup_4xgv</resourceGroup>
-          <appName>azure-blob-demo</appName>
+          <resourceGroup>Regroup_4xgv</resourceGroup>  
+          <appName>web-app-shashi</appName>  
           <pricingTier>B1</pricingTier>  
-          <region>eastus</region>
+          <region>eastus</region>  
           <runtime> 
             <os>linux</os>  
             <javaVersion>jre8</javaVersion>  
